@@ -1,0 +1,35 @@
+{
+  "name": "allex_clientcore",
+  "version": "1.0.0",
+  "description": "AllexJS client core",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-cores/client.git"
+  },
+  "dependencies": {
+    "allex_dependencyloaderclientcorelib": "1.x",
+    "allex_dependentmethodclientcorelib": "1.x",
+    "allex_clientsclientcorelib": "1.x",
+    "allex_registrybaseclientcorelib": "1.x",
+    "allex_servicepackclientcorelib": "1.x",
+    "allex_stateclientcorelib": "1.x",
+    "allex_streamclientcorelib": "1.x",
+    "allex_taskclientcorelib": "1.x",
+    "allex_transportclientcorelib": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "client",
+    "core"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-cores/client/issues"
+  },
+  "homepage": "https://github.com/allex-cores/client#readme"
+}
