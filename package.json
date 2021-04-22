@@ -1,6 +1,6 @@
 {
   "name": "allex_clientcore",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "AllexJS client core",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "dependencies": {
     "allex_dependencyloaderclientcorelib": "1.x",
     "allex_dependentmethodclientcorelib": "1.x",
-    "allex_clientsclientcorelib": "1.x",
+    "allex_clientsclientcorelib": "2.x",
     "allex_registrybaseclientcorelib": "1.x",
     "allex_servicepackclientcorelib": "1.x",
     "allex_stateclientcorelib": "1.x",
